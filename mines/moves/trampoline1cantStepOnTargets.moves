@@ -1,0 +1,25 @@
+DD
+############
+#..*.R..*..#
+#..A....B..######
+#....2.. ..#\\\C#
+#......* *.#\\\1#
+########L########
+
+Trampoline A targets 1
+Trampoline B targets 1
+Trampoline C targets 2
+-END MINE
+-2
+LIVE
+############
+#..*. ..*..#
+#..A.R..B..######
+#....2.. ..#\\\C#
+#......* *.#\\\1#
+########L########
+
+Trampoline A targets 1
+Trampoline B targets 1
+Trampoline C targets 2
+-END MINE

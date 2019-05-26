@@ -1,0 +1,10 @@
+echo This is the ICFPC2012 Submission
+echo
+echo '###  ###     OOOOOOOOO   \\\\\\\\\\\  LLL       ***  ...    ...'
+echo '# # # #      OOOOOOOOO       \\\      LLL       ***  .....  ...'
+echo '# ####       OOO   OOO       \\\      LLL       ***  ...... ...'
+echo '# # # #      OOO   OOO       \\\      LLL       ***  ... ......'
+echo '# #  # #     OOOOOOOOO       \\\      LLL.....  ***  ...  .....'
+echo '###   ###    OOOOOOOOO       \\\      LLLLLLLL  ***  ...   ....'
+echo
+cat README
